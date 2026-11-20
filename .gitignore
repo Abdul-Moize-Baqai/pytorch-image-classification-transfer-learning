@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and downloaded assets
+data/
+
+# Trained checkpoints and model weights
+*.pth
+*.pt
+*.ckpt
+
+# Local and editor files
+.DS_Store
+.vscode/
+.idea/
